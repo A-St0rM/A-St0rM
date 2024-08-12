@@ -9,7 +9,7 @@
 
 - :telescope: I am currently a software developer student from Copenhagen business Academy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :zap: In my free time, I like going to the gym but can also spend a lot of time playing video games.
+- :zap: In my free time, I enjoy going to the gym, but I can also spend a lot of time playing video games.
 
 - :mailbox: How to reach me: Mail: Alissaalidib@hotmail.com or LinkedIn: Alissa Andrea Storm 
 
