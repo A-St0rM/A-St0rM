@@ -14,14 +14,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-St0rM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=A-St0rM&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<p align="left"></p>
 
 ###
 
-<p align="left"></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=A-St0rM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=A-St0rM&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<h4 align="left">- 🔭 I am currently a Computer scientist student from Copenhagen business Academy  <br><br>- ⚡ In my free time, I enjoy going to the gym, and spend a lot of time playing video games.</h4>
+<h4 align="left">- 🔭 I am currently a computer scientist student from Copenhagen business Academy  <br><br>- ⚡ In my free time, I enjoy going to the gym, but I can also spend a lot of time playing video games.</h4>
 
 ###
 
