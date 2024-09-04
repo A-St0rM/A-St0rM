@@ -29,7 +29,7 @@
 
 ###
 
-<h4 align="left">- 🔭 I am currently a computer scientist student from Copenhagen business Academy  <br><br>- ⚡ In my free time, I enjoy going to the gym, but I can also spend a lot of time playing video games.</h4>
+<h4 align="left">- 🔭 I am currently a computer scientist student from Copenhagen business Academy  <br><br>- ⚡ In my free time, I enjoy going to the gym, I can also spend a lot of time playing video games.</h4>
 
 ###
 
